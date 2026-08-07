@@ -1,4 +1,4 @@
-splugins {
+plugins {
 	// Fabric officially recommends Loom 1.14 for developing against Minecraft 1.21.11
 	id 'fabric-loom' version '1.14-SNAPSHOT'
 	id 'maven-publish'
